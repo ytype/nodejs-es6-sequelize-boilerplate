@@ -1,11 +1,11 @@
 {
   "development": {
-    "username": "sgWFY6Ncfx",
-    "password": "CJbvUAGh4c",
-    "database": "sgWFY6Ncfx",
-    "host": "remotemysql.com",
-    "dialect": "mysql",
-    "logging": false
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": "",
+    "logging": 
   },
   "test": {
     "username": "",
